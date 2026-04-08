@@ -10,18 +10,11 @@
 **Languages**  
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 
----
-
 ## GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://readme.u14.app/api/github/stats?userId=k9tyBywy9hCjKcHLhqJa0NpTii7BN9Zi" alt="GitHub Stats for Qi-XM">
+<p align="left">
   <img width="48%" src="https://readme.u14.app/api/github/top-langs?userId=k9tyBywy9hCjKcHLhqJa0NpTii7BN9Zi" alt="Top Languages for Qi-XM">
 </p>
-
----
-
----
 
 ## Contribution Activity
 
